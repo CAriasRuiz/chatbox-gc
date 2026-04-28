@@ -1,0 +1,1083 @@
+Estándar Corporativo de Compras y Contrataciones ENAP
+1
+ESTÁNDAR CORPORATIVO DE COMPRAS Y
+CONTRATACIONES ENAP
+Versión: Fecha del
+documento
+Preparado por: Revisado por: Aprobado por:
+01 02-01-2014 Gerencia de Servicios ENAP Gerente General ENAP
+02 01-11-2020 Gerencia Corporativa de Aprovisionamiento Gerente General ENAP
+03 01-09-2021 Gerencia Corporativa de Aprovisionamiento Gerente General ENAP
+04 01-11-2023 Gerencia Corporativa de Compras y Gestión
+de Servicios
+Equipo de Gerentes/as
+de Primera Línea
+Gerente General ENAP
+05 11-11-2024 Gerencia Corporativa de Compras y Gestión
+de Servicios
+Equipo de Gerentes/as
+de Primera Línea
+Gerente General ENAP
+Estándar Corporativo de Compras y Contrataciones ENAP
+2
+Tabla de Contenido
+1 ÁMBITO DE APLICACIÓN ................................................................................................. 4
+2 CONTRATACIONES SOMETIDAS A REGLAS ESPECIALES .................................................. 4
+2.1 Gerencia de Personas .......................................................................................................... 5
+2.2 Compraventa de Hidrocarburos, Energía y Contratos de Fletamento de Buques por Viaje,
+por Tiempo de Corto Plazo y Servicios Afines .................................................................. 6
+2.3 Finanzas ............................................................................................................................... 7
+2.4 Legal y Ética y Cumplimiento .............................................................................................. 7
+2.5 Contrataciones entre partes relacionadas .......................................................................... 8
+2.6 Contratos y Convenios Comunidades ENAP Ecuador ......................................................... 8
+2.7 Otras Contrataciones Especiales ......................................................................................... 9
+2.8 Estado Excepcional de Emergencia ................................................................................... 11
+3 ÉTICA Y CUMPLIMIENTO ............................................................................................... 12
+4 ACTORES QUE INTERVIENEN EN EL PROCESO .............................................................. 13
+4.1 Área Usuaria ...................................................................................................................... 13
+4.2 Gerencia Corporativa de Compras y Gestión de Servicios de ENAP ................................. 14
+4.3 Instancias de Aprobación .................................................................................................. 14
+4.4 Directorio de ENAP y filiales ERSA & SIPETROL ................................................................. 15
+4.5 Gerencia Legal ................................................................................................................... 15
+4.6 Gerencia de Administración y Finanzas ............................................................................ 16
+4.7 Gerencia de Seguridad y Salud Ocupacional (SSO) ........................................................... 16
+4.8 Gerencia de Medio Ambiente ........................................................................................... 16
+4.9 Gerencia de Personas, Relaciones Laborales y Gestión de Terceros ................................ 17
+5 PROCESO DE COMPRAS Y CONTRATACIONES ............................................................... 17
+5.1 Principios generales .......................................................................................................... 17
+5.2 Tipos de procesos de compras y contratación .................................................................. 18
+5.3 Niveles de aprobación para las compras y contrataciones ............................................... 23
+5.4 Aprobadores ...................................................................................................................... 23
+5.5 Procesos de Contratación desiertos o terminados ........................................................... 25
+Estándar Corporativo de Compras y Contrataciones ENAP
+3
+5.6 Negociaciones ................................................................................................................... 25
+5.7 Modificación de contratos ................................................................................................ 26
+5.8 Término anticipado de contratos ...................................................................................... 26
+5.9 Etapa de cierre .................................................................................................................. 27
+6 CAMBIOS EN LA ORGANIZACIÓN .................................................................................. 28
+7 DELEGACIÓN DE FACULTADES Y VIGENCIA ................................................................... 28
+7.1 Delegación de facultades .................................................................................................. 28
+7.2 Gestión de Excepciones ..................................................................................................... 28
+7.3 Vigencia ............................................................................................................................. 28
+Anexo I - NIVELES DE APROBACIÓN SAP ............................................................................. 29
+Anexo II - MONTOS E INSTANCIAS DE APROBACIÓN ........................................................... 32
+Anexo III.a) - APROBACIÓN CONTRATACIÓN SOMETIDA A REGLA ESPECIAL ...................... 33
+Anexo III.b) - AUTORIZACIÓN DE CONTRATACIÓN DIRECTA POR URGENCIA OPERATIVA .. 35
+Estándar Corporativo de Compras y Contrataciones ENAP
+4
+1 ÁMBITO DE APLICACIÓN
+En el marco de la Política Corporativa de Compras y Contrataciones ENAP, se ha dictado el presente
+Estándar, la cual regirá para el Grupo de Empresas ENAP, a fin de regular las actividades relacionadas
+con los procesos de compras y contrataciones de bienes y servicios que deben llevar a cabo sus
+filiales y sus diferentes Unidades de Negocios en el desarrollo de sus funciones.
+Para efectos del presente Estándar, el Grupo de Empresas ENAP se entiende integrado por la
+Empresa Nacional del Petróleo y sus filiales Enap Refinerías S.A. y Enap Sipetrol S.A.; Enap Sipetrol
+Argentina, Enap Sipetrol Ecuador y Gas de Chile. Se entenderá que las Unidades de Negocio en Chile
+son ENAP Casa Matriz, ENAP Magallanes, Refinería Bío Bío, Refinería Aconcagua, Dirección de
+Almacenamiento y Oleoductos, Terminales Marítimos y Enap Sipetrol Chile.
+2 CONTRATACIONES SOMETIDAS A REGLAS ESPECIALES
+Las contrataciones sometidas a reglas especiales son aquellas contrataciones específicas que,
+debido a circunstancias únicas, requisitos específicos, condiciones de competitividad o
+consideraciones especiales, quedan fuera del alcance general y se someterán a las reglas
+particulares indicadas en este capítulo.
+Respecto de los montos de estas contrataciones, cuando excedan el valor de US$ 10 millones, se
+requerirá autorización previa del Honorable Directorio en la forma establecida en su Reglamento,
+salvo las exclusiones que dicho Reglamento contempla. Por su parte, cuando la cuantía de estas
+contrataciones sea superior a los US$ 3 millones y hasta US$ 10 millones requerirá la autorización
+de Gerente/a General de ENAP, salvo los casos que explícitamente se señalan en este numeral,
+previa recomendación según corresponda (Anexo III.a). Para contrataciones igual o inferior a US$ 3
+millones serán aprobadas por Gerente/a de Primera Línea o Gerente/a correspondiente según se
+indica en los numerales siguientes.
+Para todos los casos, se deberá contar, previamente a su contratación y ejecución, con la
+autorización de respaldo respectiva (Anexo III.a). Este documento podrá contener otras menciones
+y formalidades de acuerdo con lo que se indique en los manuales o instructivos particulares
+correspondientes referidos más adelante. Estos antecedentes deberán ser presentados a la
+Gerencia Corporativa de Compras y Gestión de Servicios, responsable de la creación del pedido,
+como condición para la generación del mismo, radicando la procedencia, la forma y la oportunidad
+de la contratación siempre en el Área Usuaria que deberá formalizar el requerimiento como solicitud
+de pedido en SAP y la liberación recaerá en el/la Gerente/a a cargo, y adjuntando el Anexo III.a)
+debidamente firmado.
+Estándar Corporativo de Compras y Contrataciones ENAP
+5
+Complementariamente a lo antes señalado, las Gerencias responsables de las Contrataciones
+Sometidas a Reglas Especiales conforme a este párrafo, deberán dictar y mantener actualizados
+manuales o instructivos que, observando los principios y reglas antes indicadas, establezcan criterios
+y procedimientos para llevar a cabo estas contrataciones, debiendo considerar siempre, en todo
+caso, la visación del contrato respectivo por parte de la Gerencia Legal, a través de la Dirección o
+Departamento Legal respectivo. También deberán realizar las gestiones con las áreas de SSO,
+Medioambiente y Gestión de Terceros, como así también seguros y garantías, si aplica.
+Toda modificación o finiquito que aplique a contrataciones sometidas a Reglas Especiales deberán
+seguir el mismo procedimiento que el contrato original.
+Asimismo, todo proceso de contratación deberá propender siempre a la aplicación y observancia de
+los siguientes principios: probidad, responsabilidad, eficiencia y eficacia, privilegiando igualmente,
+cuando ello sea posible, procesos competitivos, en los que se cumpla con la estricta sujeción a las
+bases, libre concurrencia de los oferentes, simetría en la información e igualdad de oportunidades
+en la participación de los postulantes. Igualmente, no se podrán fragmentar los requerimientos ni
+contrataciones con el propósito de modificar el tipo de proceso de contratación y su marco de
+control.
+Las Contrataciones sometidas a reglas especiales conforme a este punto 2 son las siguientes:
+2.1 Gerencia de Personas
+2.1.1 Contratos con personal a honorarios celebrados con personas naturales para actividades
+regulares o de soporte al negocio. Estas contrataciones deberán ser aprobadas por
+Gerente/a Corporativo de Personas o el Gerente/a de Personas Local, siempre que hayan
+sido aprobadas previamente por el Comité de Dotación.
+2.1.2 Capacitación para el personal, que corresponda a cursos disponibles en el mercado y/o
+que se encuentren en el plan de capacitación y/o aprobado. Estas contrataciones deberán
+ser aprobadas por Gerente/a Corporativo de Personas o Gerente/a de Personas Local,
+siempre que hayan sido aprobadas previamente en el Plan Anual de Capacitación.
+2.1.3 Compras y contrataciones que permitan entregar beneficios a los trabajadores y las
+trabajadoras, así definidos por la Gerencia de Personas o establecidos para el personal en
+la ley o instrumentos colectivos o su contrato individual de trabajo. Adicionalmente se
+incluyen aquellos servicios destinados únicamente a propiciar la actividad deportiva,
+recreativa y una vida saludable tanto para funcionarios/as como para sus cargas,
+contratados a través de Corporaciones, Clubes Deportivos u otras instituciones sin fines
+Estándar Corporativo de Compras y Contrataciones ENAP
+6
+de lucro. Estas contrataciones deberán ser aprobadas por Gerente/a Corporativo de
+Personas o Gerente/a de Personas Local.
+2.1.4 Servicios de Head Hunters para la contratación de gerentes/as, subgerentes/as,
+directores/as u otros cargos críticos que defina. Estas contrataciones deberán ser
+aprobadas por Gerente/a Corporativo de Personas siempre que el cargo haya sido
+autorizado por Gerente/a General de ENAP.
+2.1.5 Servicios o asesorías expertas en materias propias de la gestión de las personas o
+relaciones laborales, siempre que, atendida la naturaleza de la prestación, sea necesaria
+mantener su confidencialidad. Estas contrataciones deberán ser aprobadas por Gerente/a
+Corporativo de Personas.
+2.1.6 Servicios temporales para la contratación de personal. Estas contrataciones deberán ser
+aprobadas por Gerente/a Corporativo de Personas siempre que la necesidad específica
+haya sido autorizada por Gerente/a General de ENAP.
+2.2 Compraventa de Hidrocarburos, Energía y Contratos de Fletamento de
+Buques por Viaje, por Tiempo de Corto Plazo y Servicios Afines
+2.2.1 Compra y venta de crudo, derivados del petróleo, gas natural, derivados del gas natural y
+biocombustibles con fines comerciales o de consumo interno.
+2.2.2 Servicios de fletamento de naves por viaje (Voyage Charter) asociados a la compra y venta
+de crudo, derivados del petróleo, gas natural, derivados del gas natural, biocombustibles
+y servicios de fletamento de naves por tiempo de corto plazo (Short time charter) para
+reemplazos temporales de la flota permanente u otro requerimiento operativo, con
+bandera extranjera arrendados por vía de la reputación y por el plazo máximo de 6 meses
+conforme a la ley. Para estas contrataciones, el Gerente Corporativo de Supply Chain
+podrá autorizar procesos hasta US$ 5 millones.
+Por el contrario, los contratos de fletamento de naves por tiempo a mediano y largo plazo
+con bandera chilena no estarán excluidos y por tanto estarán afectos a los términos
+generales del presente Estándar.
+2.2.3 Operaciones de transporte marítimo con tarifas y derechos establecidos por la autoridad
+pertinente.
+2.2.4 Transporte a través de ductos de productos líquidos.
+Estándar Corporativo de Compras y Contrataciones ENAP
+7
+2.2.5 Almacenaje, embarque y transferencia con tarifas reguladas por la autoridad pertinente o
+por la entidad privada a cargo de la instalación.
+2.2.6 Servicios en terminales de descarga, almacenaje y regasificación.
+2.2.7 Servicios de uso de Patios de Carga de camiones de GNL.
+2.2.8 Servicios de transporte de gas natural por gasoducto.
+2.2.9 Compra y Venta de Energía Eléctrica con fines comerciales o para el suministro interno
+2.2.10 Contratación servicio de inspección para certificar la cantidad y/o calidad de crudo y/o
+productos, a comercializar, en la carga y/o descarga. La certificación podrá incluir el
+servicio de toma y traslado de muestras, realización de ensayos y análisis de laboratorios
+nacionales e internacionales, en la medida que el cliente así lo solicite.
+2.2.11 Servicios de Loss Control a la carga y/o a la descarga
+Todas estas contrataciones, deberán ser aprobadas por cualquiera de los siguientes gerentes/as,
+según corresponda a sus competencias y responsabilidades: Gerente/a Corporativo de Sipetrol,
+Gerente/a Corporativo de Supply Chain, Gerente/a de Primera Línea de ENAP Magallanes,
+Gerente/a Comercial o Gerente/a Corporativo de Refinerías.
+2.3 Finanzas
+Operaciones financieras, de mercado a futuro, derivados financieros, swaps, compraventa y
+transferencia de divisas, valores negociables, corredores de seguro y compañías aseguradoras,
+servicios de auditoría a los Estados Financieros, emisión y recepción de garantías y otros
+instrumentos financieros y contratos de créditos, materias cuya modalidad de aprobación será
+establecida en la Política Financiera.
+2.4 Legal y Ética y Cumplimiento
+2.4.1 Asesorías Legales, servicios de abogados/as o estudios jurídicos, pago de honorarios por
+prestación de servicios de los auxiliares de la administración de justicia (receptores
+judiciales, conservadores de bienes raíces, costas judiciales y gastos notariales) o
+traducciones legales, como, asimismo otros servicios cuyo objeto sea prestar asesorías
+generales, legales, en gestión de riesgos, capacitaciones, comunicaciones y auditorías en
+Estándar Corporativo de Compras y Contrataciones ENAP
+8
+materias propias de la Gerencia de Ética y Cumplimiento, tales como las asociadas a libre
+competencia, seguridad de la información, ciberseguridad y protección de datos personales,
+prevención de delitos, asuntos ambientales y de gobierno corporativo, derechos humanos
+y empresa, canal de denuncias e investigaciones, y demás programas de cumplimiento.
+2.4.2 Servicios o asesorías expertas que sean necesarias para defender los intereses de la empresa
+en juicios o controversias sustanciados ante tribunales ordinarios, arbitrales o especiales o
+en el contexto de investigaciones penales instruidas ante el ministerio público u otro tipo
+de investigaciones o procesos administrativos ante cualquier otra autoridad fiscalizadora.
+Estas contrataciones serán aprobadas, por Gerente/a de Primera Línea correspondiente.
+2.5 Contrataciones entre partes relacionadas
+Compra y venta de bienes y contratos de servicios celebrados entre empresas del Grupo de
+Empresas ENAP o con sociedades relacionadas las que deberán ser aprobadas, según corresponda,
+por Gerente /a General de ENAP, Gerente/a Corporativo de Desarrollo y Planificación Estratégica,
+Gerente/a Corporativo de Sipetrol, Gerente/a de Primera Línea de ENAP Magallanes, Gerente/a
+Corporativo de Supply Chain, Gerente/a Corporativo de Refinerías o Gerente/a Comercial, sin
+perjuicio de cumplir asimismo con la Política de Habitualidad vigente de ENAP y demás normativa
+aplicable a este tipo de operaciones.
+2.6 Contratos y Convenios Comunidades ENAP Ecuador
+2.6.1 Contratos o convenios suscritos con comunidades, que persigan finalidades de
+responsabilidad social, de conformidad con el plan de manejo ambiental aprobado por el
+respectivo ministerio sectorial (Salud, Educación y Proyectos Productivos). Estos contratos
+en ningún caso podrán incluir donaciones.
+2.6.2 Los servicios que puedan ser provistos por los grupos étnicos y por las comunidades dentro
+de la zona de influencia de la Filial y compras de terreno asociadas a las necesidades
+operativas del negocio.
+En cualquiera de los dos casos anteriores se deberá contar con la aprobación de Gerente/a de Filial
+más la aprobación de Gerente/a Corporativo de Sipetrol.
+Estándar Corporativo de Compras y Contrataciones ENAP
+9
+2.7 Otras Contrataciones Especiales
+2.7.1 Contrataciones especiales y fundadas, así calificadas por Gerente/a General de ENAP en el
+ámbito de sus funciones.
+2.7.2 Contratos o convenios de auspicio a suscribirse con instituciones públicas o privadas sin
+fines de lucro, destinados a difundir la imagen corporativa del Grupo de Empresas ENAP.
+2.7.3 Suministro de bienes y servicios, efectuadas por el Grupo de Empresas ENAP en el marco
+de contratos especiales de operación (CEOP), UTE o cualquier otro contrato de asociación
+con terceros, o en el marco de los contratos de servicios, asociación, operación conjunta
+o participación que se suscriban con los gobiernos y/o empresas con el objeto de
+desarrollar labores exploración y producción de hidrocarburos o desarrollo de proyectos
+energéticos, los que podrán ser aprobados por el Gerente/a General de ENAP, Gerente/a
+Corporativo de Desarrollo y Planificación Estratégica, Gerente/a Corporativo de Sipetrol,
+Gerente/a de Primera Línea de ENAP Magallanes, Gerente/a Corporativo de Supply Chain
+o Gerente/a Corporativo de Refinerías, según corresponda al ámbito de sus funciones.
+2.7.4 Suministro de bienes y servicios requeridos durante la vigencia y en el marco de contratos
+especiales de operación (CEOP), UTE o cualquier otro contrato de asociación o sociedad
+con terceros, o en el marco de los contratos de servicios, asociación, operación conjunta
+o participación que se suscriban con los gobiernos y/o empresas con el objeto de
+desarrollar labores exploración y producción de hidrocarburos o desarrollo de proyectos
+energéticos, u otras propias de su giro, en los que el Grupo de Empresas ENAP deba llevar
+adelante el proceso de contratación sea en cuanto a Operador o por otra circunstancia,
+los que se regirán en todo, tanto en cuanto a aprobaciones como procedimiento, por las
+reglas especiales pactadas conforme al acuerdo de asociación de que se trate y/o
+instructivo que se dicte al efecto.
+2.7.5 Contratos relacionados con procesos de naturaleza confidencial o cuya difusión pudiere
+afectar las oportunidades de negocios o estrategias comerciales del Grupo de Empresas
+ENAP, lo que será determinado por decisión fundada de Gerente/a General de ENAP,
+Gerente/a Corporativo de Desarrollo y Planificación Estratégica, Gerente/a Corporativo de
+Sipetrol, Gerente/a de Primera Línea de ENAP Magallanes, Gerente/a Corporativo de
+Supply Chain, Gerente/a Corporativo de Refinerías, o Gerente/a de Administración y
+Finanzas, en el ámbito de sus funciones.
+2.7.6 Cuando sea indispensable recurrir a un proveedor, debido a la confianza y seguridad que
+se derivan de su experiencia comprobada en la provisión de los servicios requeridos. La
+Estándar Corporativo de Compras y Contrataciones ENAP
+10
+decisión deberá estar fundada con una autorización escrita de Gerente/a General de ENAP
+o Gerente/a de Primera Línea.
+2.7.7 Contratos relacionados con la adquisición y mantención de licencias de software. La
+decisión deberá estar fundada con una autorización escrita de Gerente/a de Tecnologías
+de la Información Corporativo.
+2.7.8 Otros servicios:
+En siguientes casos podrá procederse a la contratación y/o suscripción de los contratos o
+acuerdos formales que sean necesarios, sin que sea necesaria autorización adicional alguna:
+a) El suministro de los servicios básicos y otros (agua potable, energía eléctrica, gas, transporte
+cruce primera angostura, peajes, membresías, gastos comunes, servicio de casilla con
+Correos de Chile y publicaciones corporativas en el Diario Oficial).
+b) Contrataciones que se celebren en cumplimiento de un acuerdo del H. Directorio, que haya
+dispuesto la contratación respectiva.
+c) Suscripción de contratos, pago de tarifas por visación de documentos y otros servicios
+relacionados, otorgados por parte de la Administradora de Zona Franca, para acceder a los
+beneficios tributarios que otorga la calidad de usuario de Zona Franca, por la internación de
+mercancía bajo este régimen.
+d) Para los casos de Servicios de embarque, transporte, gastos aduaneros y sobreestadía
+asociados a la compra de materiales, equipos y repuestos, el valor del servicio cuando
+aplique será integrado al valor de la compra total del bien (provisión por flete). La
+aprobación de estos casos estará sometida a la instancia de aprobación y autorización de
+los pedidos en SAP.
+e) Prestación de Servicios Públicos como pago de impuestos, patentes municipales,
+concesiones, servidumbres, pago de indemnizaciones, pago de servicios establecidos por
+ley, Pagos al Fisco, pago de servicio de aduana, u otros de similar naturaleza.
+f) Pago de obligaciones laborales y previsionales (Isapres, FONASA, AFP, mutualidades de
+empleadores, seguros obligatorios, entre otros).
+g) Pagos de aportes y convenios con Sindicatos, federaciones de sindicatos, clubes deportivos
+y corporaciones de trabajadores/as de la Empresa.
+h) Otras suscripciones de bases de datos disponibles con información de mercado.
+Estándar Corporativo de Compras y Contrataciones ENAP
+11
+2.8 Estado Excepcional de Emergencia
+Se considerará que existe un estado excepcional de emergencia cuando a partir de un evento o
+situación se genere un impacto a las personas y/o medio ambiente y/o reputación organizacional
+y/o continuidad operacional de ENAP implique la activación del máximo Nivel de alerta y
+respuesta del Sistema de Gestión de Crisis y Emergencias de ENAP (Nivel 3) y por tanto, la
+presencia de un evento que debe ser gestionado como una Crisis Corporativa. Ejemplos de
+alguna de estos eventos o situaciones son:
+ Estados provocados por desastres naturales declarados por la autoridad competente.
+Ejemplo, terremotos, inundaciones, maremotos, etc.
+ Escasez energética por baja producción de gas o de crudos en el mercado relevante, entre
+otros.
+ Cualquier evento externo o interno no planificado que provoque la detención de plantas
+de manera total o parcial.
+ Derrames de crudo o productos con grave impacto en la comunidad y el medioambiente.
+ Emergencia operativa. A diferencia de la causal de adjudicación directa por Emergencia,
+urgencia o imprevisto, en este caso las consecuencias potenciales deben ser permanentes
+por un período de tiempo
+La declaración del inicio del estado excepcional de emergencia deberá ser realizada por
+Gerente/a General de ENAP, incluyendo la activación del Comité de Crisis Corporativo y que,
+de acuerdo con lo establecido en el Manual de Gestión de Crisis de ENAP, aprobará todas las
+compras y contrataciones afectadas por el evento que provoca dicha declaración. El/la
+Gerente/a General de ENAP deberá declarar asimismo el término del estado excepcional de
+emergencia.
+La Gerencia Corporativa de Compras y Gestión de Servicios será la encargada de realizar dichos
+procesos de compra y contratación, y sus modificaciones, a los cuales no serán aplicables las
+normas generales, sino que se atenderá a las normas excepcionales que a continuación se
+establecen:
+ Independientemente del monto involucrado, podrán realizarse procesos de Contratación
+Directa, las cuales deberán contar con una oferta formal del proveedor, que contenga al
+menos la identificación del servicio que se compromete a ejecutar, la modalidad de
+ejecución, organización, el plazo estimado y el monto y modalidad de pago.
+ Se podrá generar compras o contrataciones directas en referencia a tarifas vigentes en
+contratos marcos o a tarifas ofrecidas en procesos de licitación recientes, tomando en
+cuenta la oportunidad y magnitud del evento o circunstancia que motiva la declaración.
+Estándar Corporativo de Compras y Contrataciones ENAP
+12
+3 ÉTICA Y CUMPLIMIENTO
+Todos(as) los trabajadores(as) del Grupo de Empresas ENAP deberán cumplir con la normativa
+interna del Grupo, y especialmente, en lo que se refiere a Ética y Cumplimiento, con el Código de
+Ética, el Reglamento Interno de Orden, Higiene y Seguridad, el Modelo de Prevención de Delitos, y
+las Políticas de Conflicto de Interés, de Regalos, Invitaciones y Beneficios, de Due Diligence para
+Terceros, de Libre Competencia, de Seguridad de la Información, y otras que se dicten en el
+desarrollo de las buenas prácticas y desarrollo de programas de prevención.
+Las infracciones a esta obligación serán debidamente sancionadas de conformidad al Reglamento
+Interno de Orden, Higiene y Seguridad, la normativa interna del Grupo de Empresas ENAP y la ley,
+según corresponda.
+De esta forma, y sin que esto sea taxativo:
+3.1. Todo el personal involucrado en los procesos de contratación de bienes o servicios deberá
+adoptar aquellas medidas que permitan resguardar la información comercial, estratégica y
+operativa tanto del Grupo de Empresas ENAP como de sus proveedores y clientes, estableciendo un
+acceso limitado a la misma;
+3.2. De existir algún conflicto de interés, ya sea real, potencial o aparente, según estos conceptos se
+definen en la Política respectiva, el/la trabajador(a) afectado(a) deberá abstenerse de participar en
+el respectivo proceso y declararlo en el plazo establecido en la misma a través de los mecanismos
+formales y vigentes para el efecto. Efectuada la declaración, la Jefatura directa deberá establecer
+las medidas mitigantes, entre las cuales se podrá incluir aquélla que diga relación con reemplazar al
+personal afectado en la función específica o aprobación particular que le hubiera correspondido si
+no hubiera estado afectado por el conflicto referido;
+3.3. ENAP, en el desarrollo de sus relaciones de negocios con terceros, no promueve la práctica de
+ofrecer, entregar, solicitar o recibir regalos, invitaciones ni beneficios, sino que por el contrario,
+busca el cuidado y austeridad de los recursos y evitar que las decisiones de contratación se vean
+afectadas por factores ajenos a los legítimos intereses de ENAP, para lo cual, todo trabajador(a)
+deberá apegarse estrictamente a lo dispuesto en la respectiva Política de Regalos, invitaciones y
+beneficios;
+3.4. Todo(a) Trabajador(a) del Grupo de Empresas de ENAP podrá siempre recurrir a la Gerencia de
+Ética y Cumplimiento en caso tenga dudas sobre la aplicación o alcance de las normas internas
+citadas previamente, como así también, a denunciar las malas prácticas o incumplimientos que
+observe en esta materia.
+Estándar Corporativo de Compras y Contrataciones ENAP
+13
+4 ACTORES QUE INTERVIENEN EN EL PROCESO
+A continuación, se detallan los principales roles y responsabilidades de los actores intervinientes
+en el proceso:
+4.1 Área Usuaria
+ Formalizar sus requerimientos a través de una Solicitud de Pedido liberada y/o Reserva en
+el sistema SAP con los antecedentes necesarios para la realización del proceso. No obstante,
+se podrán utilizar otros mecanismos para formalizar los requerimientos, previa autorización
+de Gerente/a de Primera Línea1, según corresponda a la contratación respectiva, junto con
+la autorización de Gerente/a Corporativo de Compras y Gestión de Servicios. En el caso de
+requerimientos de proyectos de inversión e iniciativas operacionales, que no han
+completado el ciclo de aprobación, deberán ser formalizados por Gerente/a de Inversiones,
+según lo establezca el procedimiento pertinente.
+ Los requerimientos deberán ser oportunos, planificados, contar con un presupuesto y estar
+autorizados de acuerdo con los niveles de aprobación establecidos en el Anexo I. Asimismo,
+deberán incluir y detallar los antecedentes y requerimientos técnicos y demás
+especificidades del servicio y /o bien de que se trate, que resulten necesarios para la
+adecuada identificación de la necesidad y alcances del proceso que se debe iniciar. Para los
+casos de Proyectos e Iniciativas Operacionales, aplicará lo que establezca el procedimiento
+para estos casos.
+ Realizar la evaluación de los antecedentes técnicos del proceso de compra o contratación,
+según se defina o se requiera en cada caso y proporcionar la información requerida en las
+diferentes instancias del proceso.
+ Definir un Administrador Técnico o Administradora Técnica del Contrato, que será
+responsable del desempeño técnico, de costos y ámbitos de seguridad, salud ocupacional y
+medio ambiente durante la prestación de los servicios, contando para ello con el soporte de
+las distintas áreas según el ámbito de competencia, tales como: Aprovisionamiento, Legal,
+SSO, Personas, Medio Ambiente entre otras. El trabajador o trabajadora designada como
+responsable de la administración técnica del Contrato se debe encontrar claramente
+individualizado/a, en el contrato respectivo, o en el Libro de Obras, o en el acta de inicio de
+servicio u orden de servicio o carta de adjudicación.
+ Ejecutar las tareas de administración técnica de los contratos establecidas en el
+Procedimiento Corporativo para la Administración de Contratos.
+1 Se entiende por Gerentes/as de Primera Línea a todos los Gerentes y las Gerentas que, jerárquicamente,
+tengan dependencia directa del Gerente/a General o del Honorable Directorio
+Estándar Corporativo de Compras y Contrataciones ENAP
+14
+4.2 Gerencia Corporativa de Compras y Gestión de Servicios de ENAP
+ Liderar los procesos de compras de bienes y contratación de servicios; propiciando
+eficiencia, sinergias, optimización de costos, agregación de valor resguardando el adecuado
+marco de control y accountability en los procesos.
+ Definir la Estrategia de Aprovisionamiento basándose en la naturaleza de los servicios o
+bienes, impacto en la continuidad operativa, minimización de los riesgos y costos de las
+prestaciones, desarrollo y competitividad del mercado de proveedores, oportunidad de
+sinergias y temporalidad, u otras palancas técnicas, comerciales y de demanda. Es decir, se
+definirá el tipo de contratación, horizonte de contratación, cronograma del proceso,
+palancas de optimización, entre otros.
+ Mantener un respaldo de los documentos y antecedentes que configuran las distintas
+etapas de los procesos de compras y contrataciones, garantizando adecuada trazabilidad de
+dicha información y de las decisiones adoptadas por un tiempo no inferior a lo estipulado
+en las leyes de cada país.
+ Utilizar los modelos de bases de licitación y contratos previamente aprobados por la
+Gerencia Legal de acuerdo con las características particulares de los requerimientos y
+antecedentes aportados por el Área Usuaria.
+ Resguardar la simetría de información, transparencia y competitividad con el mercado de
+proveedores, velando por el debido resguardo de la información de competidores.
+ Ejecutar las tareas de soporte comercial de los contratos establecidas en el Procedimiento
+Corporativo para la Administración de Contratos.
+ Establecer y/o recomendar la necesidad, pertinencia, condiciones y montos de las garantías
+según complejidad, riesgo y/o características del servicio o bien, adicionalmente deberá:
+o Realizar el control de las vigencias de las garantías.
+o Solicitar al contratista los reemplazos y/o ajustes de la (s) garantía(s) en el caso de
+aumentos de montos o plazos del contrato u orden de compra.
+ La Gerencia Corporativa de Compras y Gestión de Servicios, en el marco de sus funciones,
+velará por la difusión de este Estándar.
+4.3 Instancias de Aprobación
+Para cada una de las instancias de aprobación definidas en el Anexo II se establecen las siguientes
+atribuciones:
+ Evaluar y resolver la adjudicación de las compras y contrataciones que le correspondan en
+función del monto.
+Estándar Corporativo de Compras y Contrataciones ENAP
+15
+ Aprobar las Contrataciones Directas señaladas en el punto 5.2.3.4, con excepción de la
+indicada en su letra b).
+ Tomar conocimiento de las Contrataciones Directas fundadas en la sección 5.2.3.4, letra b)
+del presente Estándar.
+ Aprobar modificaciones de contratos.
+ Aprobar el término anticipado de un contrato.
+ Aprobar la estrategia de venta de bienes muebles cuya baja y puesta a la venta haya sido
+autorizada, según el procedimiento vigente, por Gerente/a de Administración y Finanzas en
+función de la recomendación de modalidades y montos propuestos por Gerente/a de
+Primera Línea responsable de los bienes; y resolver la propuesta de adjudicación de ellos. El
+valor estimado de la venta indicará la instancia que deba aprobar.
+ Aprobar la suscripción de finiquitos.
+4.4 Directorio de ENAP y filiales ERSA & SIPETROL
+ Resolver las adjudicaciones que le correspondan en función del monto.
+4.5 Gerencia Legal
+ Establecer modelos de bases de licitación y contratos corporativos, con el objeto de agilizar
+el proceso de su visación jurídica. Cualquier ajuste o modificación a los modelos referidos
+deberán ser previamente revisados, visados y autorizados por la Gerencia Legal. Para lo
+anterior, deberá actuar coordinadamente con la Gerencia Corporativa de Compras y
+Gestión de Servicios, que deberá proporcionar los antecedentes suficientes de manera
+previa y oportuna, que posibiliten la visación correspondiente.
+ Revisión de los antecedentes legales que se acompañen adjuntos a los procesos de
+aprovisionamiento y a los contratos.
+ Mantener y gestionar los poderes de firma otorgados por la administración, actualizados y
+a disposición de la Gerencia Corporativa de Compras y Gestión de Servicios y de las
+Instancias de Aprobación.
+ A requerimiento de la Gerencia Corporativa de Compras y Gestión de Servicios,
+proporcionar asesoría legal durante la etapa previa a la contratación, ejecución de los
+servicios, controversias y administración de éstos, y dar visación jurídica a los respectivos
+contratos, modificaciones y finiquitos.
+ Pronunciarse respecto de la pertinencia de proceder a la ejecución de las garantías a
+requerimiento de Gerente/a Corporativo de Compras y Gestión de Servicios. .
+Estándar Corporativo de Compras y Contrataciones ENAP
+16
+ Ejecutar las tareas de soporte a la administración de los contratos establecidas en el
+Procedimiento Corporativo para la Administración de Contratos.
+4.6 Gerencia de Administración y Finanzas
+ Realizar la evaluación financiera de los procesos de contratación según los criterios
+definidos.
+ Controlar, procesar y efectuar los pagos; y descontar y hacer efectiva la aplicación de
+multas, retenciones, garantías u otros cobros a los proveedores, según requerimiento de las
+áreas pertinentes y de acuerdo con los procedimientos internos que apliquen.
+ Revisar las condiciones y custodia de las garantías de los contratos e informar
+periódicamente a la Gerencia Corporativa de Compras y Gestión de Servicios del
+vencimiento de las mismas con 30 días de anticipación, sin perjuicio de la responsabilidad
+del administrador técnico de contrato y de la Gerencia Corporativa de Compras y Gestión
+de Servicios de velar por la vigencia de las garantías.
+ Ejecutar las tareas de soporte a la administración de los contratos establecidas en el
+Procedimiento Corporativo para la Administración de Contratos.
+4.7 Gerencia de Seguridad y Salud Ocupacional (SSO)
+ Establecer y definirlos lineamientos en materias de SSO que rijan los procesos de
+Aprovisionamiento.
+ Realizar las evaluaciones de los aspectos asociados a SSO, según la naturaleza del servicio a
+contratar, bajo los criterios y herramientas definidas para tales fines.
+ Ejecutar las tareas de soporte a la administración de los contratos establecidas en el
+Procedimiento Corporativo para la Administración de Contratos.
+4.8 Gerencia de Medio Ambiente
+ Realizar las evaluaciones de los aspectos asociados a la protección del Medio Ambiente,
+según la naturaleza del servicio a contratar, bajo los criterios y herramientas definidas para
+tales fines.
+ Establecer y definir los lineamientos en materias de Medio Ambiente que rijan los procesos
+de Aprovisionamiento.
+ Ejecutar las tareas de soporte a la administración de los contratos establecidas en el
+Procedimiento Corporativo para la Administración de Contratos.
+Estándar Corporativo de Compras y Contrataciones ENAP
+17
+4.9 Gerencia de Personas, Relaciones Laborales y Gestión de Terceros
+ Dar soporte en materia laboral, definiendo las condiciones que apliquen para cada proceso
+de contratación y realizando la evaluación laboral en las contrataciones, bajo los criterios y
+herramientas definidos para tales fines. A la vez, establecer mitigantes para los riesgos
+identificados en estas evaluaciones.
+ Gestionar controversias en materia de relaciones laborales con contratistas.
+ Ejecutar las tareas de soporte a la administración de los contratos establecidas en el
+Procedimiento Corporativo para la Administración de Contratos.
+5 PROCESO DE COMPRAS Y CONTRATACIONES
+5.1 Principios generales
+ La Gerencia Corporativa de Compras y Gestión de Servicios será la única autorizada para
+coordinar y ejecutar los procesos de compra de bienes y contratación de servicios a los que
+aplique este Estándar. Dichos procesos deberán regirse por los principios de probidad,
+responsabilidad, eficiencia y eficacia, competencia, transparencia, equidad, simetría en la
+información e igualdad entre los oferentes y estricta sujeción a las bases o términos que
+regulan los procesos.
+ Cada responsable deberá velar que la segregación de funciones esté delimitada y
+formalizada, tanto en la solicitud como en la ejecución de los servicios, para promover la
+transparencia y la integridad de los procesos; de tal forma de fortalecer el ambiente de
+control y minimizar la materialización de riesgos y conflictos de intereses.
+ No se podrán fragmentar los requerimientos ni contrataciones con el propósito de modificar
+el tipo de contratación y/o su nivel de aprobación.
+ La comunicación durante los procesos de contratación con proveedores deberá ser formal,
+oportuna y trazable. Los mecanismos y plazos para dichas comunicaciones se establecerán
+en las respectivas bases de licitación, términos de referencia o condiciones generales y/o
+especiales del suministro de bienes o servicios que se vaya a contratar. Los únicos
+representantes válidos para realizar dichas comunicaciones serán las respectivas áreas de
+compras y contrataciones.
+ La recepción y apertura de ofertas, así como la custodia de la información, deberán
+realizarse a través de un mecanismo que garantice su debida trazabilidad, transparencia e
+igualdad de los oferentes, sin que ello implique o facilite una coordinación anticompetitiva
+entre dichos oferentes.
+Estándar Corporativo de Compras y Contrataciones ENAP
+18
+ El criterio que orientará la evaluación y determinación de adjudicación de una propuesta
+será sobre la base de aquella que se determine como mejor “oferta integral”, considerando
+para dichos efectos las variables relativas a criterios de SSO y medio ambiente, relaciones
+laborales, técnicos y costos, así como de oportunidad, elementos de contexto y condiciones
+de mercado, argumentos que deberán ser presentados y debidamente fundamentados en
+la instancia de aprobación pertinente.
+ Podrán definirse incentivos y/o multas que garanticen el correcto y oportuno cumplimiento
+de los contratos y órdenes de compra; y la captura de beneficios por sobrecumplimiento.
+ En materia de garantías, se seguirán los lineamientos establecidos en el “Instructivo para el
+Control, Gestión y Registros de Garantías” vigente (o documento equivalente) y las
+excepciones al mismo serán aprobadas según lo que señale el mismo con la correspondiente
+fundamentación y trazabilidad escrita que la justifique.
+ Las adjudicaciones podrán ser en forma total o parcial y a uno o más proveedores, de
+acuerdo con la conveniencia dada por la mejor oferta integral y/o Estrategia de
+Aprovisionamiento indicados en las bases de licitación, términos de referencia o
+condiciones generales y/o especiales del suministro de bienes o servicios.
+ Los servicios contratados podrán iniciarse sólo una vez suscrito el respectivo contrato por
+las partes, salvo en caso de urgencia o imprevisto conforme se establece en la sección punto
+5.2.3.4 Contrataciones directas , letra b) de este Estándar. Excepcionalmente, la instancia
+de aprobación respectiva podrá autorizar el inicio de los servicios antes de la suscripción del
+contrato por las partes, previa aceptación de la carta de adjudicación por parte del
+Contratista, la que debe indicar expresamente el pronto inicio, y condicionado a la entrega
+de la garantía de fiel cumplimiento exigida. Lo anterior, no dará derecho a facturación y
+pago de servicios mientras no se suscriba el respectivo contrato.
+5.2 Tipos de procesos de compras y contratación
+Este Estándar define los siguientes mecanismos para llevar a cabo el proceso de contratación de
+servicios y compra de bienes: Licitación Pública, Licitación Privada, Cotización, Contratación Directa.
+Para estos efectos las modalidades de contratación se definirán de acuerdo con los criterios que se
+indican para cada mecanismo, los cuales estarán sujetos a los procedimientos internos que se
+promulguen en estas materias, y que serán el soporte para la aplicación de este Estándar.
+Si bien la regla general es propender a la realización de licitaciones públicas, serán plenamente
+aplicables las demás modalidades de contratación referidas en este numeral en los casos
+establecidos en el presente Estándar según corresponda.
+Estándar Corporativo de Compras y Contrataciones ENAP
+19
+5.2.1 Contratación de servicios
+Los procesos de contratación de servicios se realizarán en base a la estrategia definida en razón de
+la complejidad técnica, la confiabilidad en materia de SSO y medio ambiente, el desarrollo del
+mercado u otros aspectos relevantes de acuerdo con la naturaleza del mismo.
+5.2.2 Compra de bienes
+Para el caso de bienes se consideran como modalidades de suministro, las órdenes de compra (spot
+y/o abiertas con entregas parciales), los convenios por lista de precios, consignaciones, stockless,
+catálogos u otras modalidades de provisión.
+Cualquiera sea la modalidad seleccionada, de acuerdo con la Estrategia de Aprovisionamiento, se
+deberá contar con las cotizaciones necesarias en función del proceso.
+Se deja constancia que por regla general los procesos de compra de materiales se realizarán a través
+del mecanismo de cotización, independiente el monto.
+Sin perjuicio de lo anterior, y de acuerdo con la complejidad del suministro, se podrá recurrir a
+licitaciones para la provisión de estos, las que estipularán en sus bases condiciones específicas de
+compra de acuerdo con la naturaleza del suministro requerido.
+5.2.3 Mecanismos de contratación
+5.2.3.1 Licitación Pública
+Proceso de carácter público y concursable, aplicable a la contratación de un servicio cuyo
+presupuesto estimado supere los US$ 450 mil; la convocatoria e invitación al mercado de
+proveedores será a través de un medio de comunicación de circulación regional, nacional y/o en el
+extranjero, conforme al ámbito geográfico y alcance de los servicios que se requieran, u otro medio
+de comunicación que se defina.
+5.2.3.2 Licitación Privada
+Proceso de carácter privado y concursable, y que se aplica, en lugar de la Licitación Pública, en base
+a los criterios detallados más adelante. Los proveedores deben ser invitados de manera expresa y
+formal por la Gerencia Corporativa de Compras y Gestión de Servicios. Esta modalidad aplicará a
+aquellos procesos cuyo presupuesto estimado supere los US$ 450 mil.
+Las estrategias de aprovisionamiento para realizar una licitación privada deberán ser autorizadas
+por Gerente/a Corporativo de Compras y Gestión de Servicios por escrito y de manera fundada y
+debidamente aprobado.
+Estándar Corporativo de Compras y Contrataciones ENAP
+20
+El criterio para determinar el carácter privado de un proceso de licitación podrá estar dado por uno
+o más de los siguientes criterios:
+ Número limitado de oferentes: cuando el conocimiento del mercado de proveedores de los
+suministros o servicios requeridos permita concluir en forma objetiva y verificable la
+existencia de un número acotado de oferentes. Además, la participación podrá ser limitada
+a aquéllos que cumplan determinadas condiciones, características y/o exigencias, según se
+establezca en las respectivas bases de licitación.
+ Servicios de alta especialización y/o criticidad para el negocio: cuando se trate de servicios
+de alta complejidad, confidencialidad o riesgo, o bien que se ejecuten en áreas de procesos
+operativos o de exploración y producción de hidrocarburos, en los cuales la calidad,
+experiencia, su carácter de licenciante o propietario de la tecnología, especialización y
+conocimiento que el Proveedor y/o Contratista tenga, fuera o dentro del Grupo de
+Empresas ENAP, resulte esencial para garantizar la seguridad de las personas e instalaciones
+y continuidad de los procesos.
+ En caso de haber sido precedidas de un proceso de precalificación técnica de proveedores
+realizado mediante un llamado público. Cuando se proceda mediante llamado público a
+precalificación técnica, podrá luego llevarse a cabo un proceso de licitación privada,
+invitando a quienes hayan sido calificados satisfactoriamente en el proceso público referido.
+En los casos de ENAP Sipetrol Argentina y ENAP Sipetrol Ecuador, se podrán realizar licitaciones
+privadas por defecto. No obstante, todo proceso de contratación o compra para montos superiores
+a US$ 3 millones, requerirá de la aprobación de la Estrategia de Aprovisionamiento por parte de
+Gerente/a Corporativo de Compras y Gestión de Servicios. .
+5.2.3.3 Cotización
+Proceso concursable, aplicable a procesos de contratación cuyo presupuesto estimado es mayor a
+US$ 5 mil, pero igual o inferior a los US$ 450 mil, que consiste en la solicitud de al menos 3
+cotizaciones del mercado relevante, para la prestación de un servicio o compras de bienes.
+En el caso que, tras el proceso de cotización, la propuesta a adjudicar excediere los US$ 450 mil,
+ésta podrá ser adjudicada sólo si no se supera el 10% de dicho valor. En caso contrario, se deberá
+declarar terminado el proceso.
+5.2.3.4 Contrataciones directas
+Excepcionalmente podrán realizarse compras de bienes y contrataciones de servicios a través de
+contrataciones directas en los casos que se indican en este numeral. Estas contrataciones deberán
+ser presentadas ante la instancia de aprobación que corresponde en función del monto.
+Estándar Corporativo de Compras y Contrataciones ENAP
+21
+a) Si el proceso de licitación hubiese sido declarado terminado, podrá negociarse con todos
+los que calificaron en dicho proceso. Para realizar la negociación, deberán utilizarse las
+bases técnicas del proceso original. En caso de que sea necesario introducir modificaciones
+a dichas bases, deberá realizarse un nuevo proceso de contratación.
+b) En casos de urgencia o imprevisto, calificados mediante decisión fundada ya sea de
+Gerente/a General de ENAP, Gerente/a Corporativo de Sipetrol, Gerente/a de Primera Línea
+de ENAP Magallanes, Gerente/a Corporativo de Supply Chain o de Gerente/a Corporativo
+de Refinerías, según corresponda a sus funciones. Se entenderá que concurre esta causal
+de contratación directa cuando se presenta un estado anormal, provocado por un evento
+no programado, que requiere de acción inmediata para prevenir lesiones a las personas,
+alteraciones a los procesos productivos o administrativos y/o minimizar daños a la
+propiedad, a la comunidad y al medio ambiente. No será necesaria la autorización previa de
+estas compras o contrataciones por la instancia de aprobación que correspondiere
+conforme a su monto. Sin perjuicio de lo anterior, estas contrataciones deberán ser
+informadas por Administrador/a Técnico/a a la Instancia respectiva según Anexo II, en un
+plazo no superior a 90 días corridos desde la declaración de urgencia respectiva, dando
+cuenta de sus montos e individualización de los contratistas e informará en caso de
+modificaciones debidamente autorizadas, y al cierre definitivo de la Urgencia Operativa.
+Estas contrataciones deberán contar con una oferta formal del proveedor, que contenga al
+menos la identificación del servicio que se compromete a ejecutar, la modalidad de
+ejecución, el plazo y el monto y forma de pago, la cual debe ser evaluada y aceptada en
+cuanto a la razonabilidad de los precios según mercado, condición de urgencia y/o contratos
+vigentes, tomando en cuenta la oportunidad y magnitud del evento.
+Toda urgencia operativa deberá ser respaldada por escrito con un documento que autoriza
+la contratación directa por razones de urgencia o imprevisto (Anexo III.b).
+Si correspondiera, quien declara la condición de urgencia operativa deberá evaluar la
+conveniencia de recomendar una Declaración de un Estado Excepcional de Emergencia en
+función de la magnitud, extensión en el tiempo e impactos asociados al evento.
+c) Cuando sólo exista un único proveedor de un determinado servicio o bien a adquirir en el
+mercado relevante, situación que deberá ser verificable, fundamentada suficientemente
+por el representante del Área Usuaria y validada por el jefe del departamento y/o dirección
+del Área Usuaria y por el jefe del departamento y/o dirección de la Gerencia Corporativa de
+Compras y Gestión de Servicios. La condición de proveedor único deberá ser calificada en
+cada oportunidad, en función de los requerimientos y necesidades de la empresa,
+Estándar Corporativo de Compras y Contrataciones ENAP
+22
+atendiendo a factores de oportunidad o época y territorio o lugar específico en que se
+pretende realizar la contratación.
+d) Compra de bienes y contratación de servicios por un monto igual o inferior a US$ 5 mil. En
+este caso será suficiente contar con una cotización.
+e) Cuando el suministro sólo pueda realizarse con propietarios de licencias, fabricantes o
+representantes exclusivos de un repuesto, equipo, planta o instalación de una marca
+determinada, o servicios vinculantes de cualquier naturaleza que haga necesaria la compra
+directa de bienes, o la contratación de servicios asociados a su implementación, mantención
+y/o funcionamiento; se considerará justificado conforme a esta causal, la contratación de
+todo servicio vinculante asociado a la compra de un bien que tenga relación con su
+internación, desconsolidación de carga, demurrage, sobreestadía e implementación, entre
+otros.
+La acreditación de la condición de representante exclusivo o circunstancias antes descritas
+deberá ser proporcionada por el solicitante del bien o servicio mediante respaldo
+documental debidamente actualizado. En caso de existir más de un representante o
+distribuidores autorizados o de existir más de una alternativa para la provisión del servicio,
+se deberá cotizar o licitar, según corresponda.
+f) Cuando del análisis realizado en base a una Estrategia de Aprovisionamiento, se concluya
+que un proceso de negociación directa con uno o más proveedores resulta mucho más
+eficiente y beneficioso para la Empresa, lo que deberá ser fundamentado por la Gerencia
+Corporativa de Compras y Gestión de Servicios en conjunto con el Área Usuaria y aprobado
+por Gerente/a Corporativo de Compras y Gestión de Servicios, constando por escrito en un
+documento debidamente aprobado.
+g) Cuando existiendo un proceso de licitación en curso, y debido a contingencias durante el
+desarrollo del mismo, se concluya algún riesgo de continuidad operativa de los servicios, se
+podrá realizar un trato directo con uno o más proveedores por un plazo máximo de 6 meses
+para efectos de contratar el servicio respectivo, lo que deberá ser fundamentado por escrito
+por Gerente/a Corporativo de Compras y Gestión de Servicios. y Gerente/a de Primera
+Línea, según corresponda al servicio de que se trata.
+h) Cuando se trate de contrataciones que tengan por objeto probar la aplicación en ENAP de
+nuevos productos o procesos o innovaciones, que pudieren significar disminución de riesgos
+a las personas, instalaciones y/o medioambiente, mejoras operacionales o mayor eficiencia
+Estándar Corporativo de Compras y Contrataciones ENAP
+23
+en los procesos. En estos casos se deberá señalar explícitamente el alcance, responsables y
+beneficios esperados, y el contrato deberá ser aprobado por períodos y montos acotados y
+proporcionados a las finalidades de prueba antes indicadas. Las solicitudes de
+contrataciones directas fundadas en esta causal deberán ser autorizadas por Gerente/a de
+Primera Línea, hasta US$ 3 millones, o Gerente/a General de ENAP, para montos superiores
+a US$ 3 millones.
+i) En caso de contratación de servicios asociados a compra de bienes adjudicados
+previamente, en que sea necesario contar con el respaldo y/o garantía del proveedor que
+suministró el bien en servicios tales como implementación, puesta en marcha, mantención,
+instalación, capacitación y entrenamiento para su operación y/o mantenimiento. Estos
+casos deberán ser respaldados con la Orden de Compra que demuestre que el bien fue
+adquirido al proveedor al que se contratará el servicio.
+5.3 Niveles de aprobación para las compras y contrataciones
+Los rangos e instancias de aprobación se encuentran establecidos en el Anexo II, el cual sólo podrá
+ser actualizado y modificado con la autorización expresa de Gerente/a General de ENAP.
+Estos rangos no implican aprobación secuencial. El nivel de aprobación se determina en función del
+monto del proceso, sin incluir reajustes de precios ni impuestos.
+Los montos allí mencionados se encuentran expresados en dólares estadounidenses. La
+equivalencia en dólares se deberá calcular en base al tipo de cambio oficial publicado, respecto del
+día que se aprobó el requerimiento (solicitud de pedido) por parte del área usuaria. Para los casos
+de aprobaciones para ENAP Sipetrol Argentina, la equivalencia en dólares se deberá calcular en base
+al tipo de cambio oficial publicado, respecto del primer día del mes en que se presente a instancia
+de aprobación.
+5.4 Aprobadores
+5.4.1 Sobre los aprobadores y las aprobadoras
+Los Aprobadores y las Aprobadoras funcionarán como instancia de aprobación individual o plural,
+dependiendo de la cuantía y naturaleza de la contratación, según se definen en el cuadro Anexo II
+del presente Estándar.
+Estándar Corporativo de Compras y Contrataciones ENAP
+24
+Para los efectos de este Estándar, tendrá el carácter de Aprobador/a, quien detente en calidad de
+titular el cargo indicado en el Anexo II, en caso de ausencia o impedimento de este, quien le esté
+subrogando en el cargo, circunstancia que deberá ser indicada en la aprobación respectiva, y
+siempre que éste(a) no posea como medida de mitigación a una declaración de conflicto de interés,
+el deber restarse de un determinado circuito de aprobación.
+5.4.2 Obligaciones de los aprobadores y las aprobadoras
+Los Aprobadores y las Aprobadoras deberán manifestar su acuerdo oportunamente y de forma tal
+que no genere retraso en el proceso de contratación, dejando trazabilidad, formal e indubitable,
+mediante firma física o electrónica, correo electrónico o aprobación virtual.
+Es obligación de la Gerencia Corporativa de Compras y Gestión de Servicios con apoyo del Área
+Usuaria, gestionar las aprobaciones respectivas, proporcionando a la instancia de aprobación los
+antecedentes completos para tal efecto.
+5.4.3 Formas de aprobación
+Los Aprobadores y las Aprobadoras recibirán y deberán tener a disposición todos los antecedentes
+de la contratación por parte de la Gerencia Corporativa de Compras y Gestión de Servicios; dentro
+de los cuales obligatoriamente se deberán considerar como referencia los costos del servicio, para
+lo cual –y dependiendo de la naturaleza del servicio y/o bien– podrán ser los costos actuales,
+histórico, benchmarking de la industria, estimación presupuestaria del Área Usuaria u otro que se
+disponga y que sea atingente a los antecedentes que se requieran.
+Se requerirá el acuerdo unánime de los Aprobadores y las Aprobadoras respectivos para la
+adjudicación o autorización de que se trate, salvo que un Reglamento de carácter superior disponga
+explícitamente otro mecanismo.
+Las aprobaciones podrán realizarse en forma presencial, virtual u otro medio escrito.
+Tanto para las posteriores revisiones y validaciones como para los efectos de la debida trazabilidad
+de los procesos de contratación, las aprobaciones deberán ser completas y constar formalmente,
+dejando fiel testimonio de quién o quiénes estén concurriendo en la aprobación, rechazo, su fecha,
+fundamentos, como asimismo y de manera indubitable, de los antecedentes que se tuvieron a la
+vista al momento de materializar cada aprobación.
+Toda circunstancia especial, tales como exenciones de garantías, adjudicaciones directas,
+declaraciones de procesos terminados o desiertos o similares, deberá ser debida y completamente
+fundada en su procedencia.
+Estándar Corporativo de Compras y Contrataciones ENAP
+25
+Será obligación de la Gerencia Corporativa de Compras y Gestión de Servicios mantener en sus
+distintas áreas un adecuado registro y copia documental y/o digital de toda esta información, con
+las debidas autorizaciones y todos sus antecedentes fundantes, de manera tal que no exista duda
+alguna de su total consistencia y coherencia.
+5.5 Procesos de Contratación desiertos o terminados
+Un proceso contratación (sea de cotización o licitación) se considerará desierto cuando no se haya
+recibido ninguna oferta; o bien ninguna de las ofertas recibidas cumple con los requerimientos
+técnicos, administrativos y/o comerciales.
+Un proceso se podrá considerar terminado o no adjudicado, en caso de presentarse alguno de los
+siguientes casos:
+ No se recibió un número suficiente de ofertas para garantizar la debida competencia.
+ Los valores ofertados exceden el presupuesto en un monto tal que impida materializar la
+contratación (situación que será definida por el Área Usuaria); o bien dichos valores no se
+ajustan a las condiciones de mercado y resulta de mayor conveniencia realizar un nuevo
+proceso.
+ Si durante el transcurso del proceso se producen imprevistos, existan razones de
+conveniencia debidamente justificadas o se disponga de nueva información que permita
+concluir que no sería conveniente continuar con el proceso.
+En el caso de la contratación de servicios la decisión de declarar un proceso terminado o desierto
+deberá ser aprobada por instancia de aprobación correspondiente según Anexo II, para procesos
+hasta US$ 1 millón. Para procesos mayores al monto anteriormente señalado, la autorización
+recaerá en Gerente/a de Primera Línea respectivo y Gerente/a Corporativo de Compras y Gestión
+de Servicios.
+5.6 Negociaciones
+La Gerencia Corporativa de Compras y Gestión de Servicios será la única responsable de conducir
+negociaciones relacionadas con procesos de aprovisionamiento. Toda negociación deberá realizarse
+respetando los principios de transparencia, estricta sujeción a las bases, e igualdad hacia los
+oferentes favoreciendo las normas de la libre competencia (contempladas en el Decreto Ley N° 211
+y sus modificaciones).
+Para todos los tipos de procesos, en la adquisición de materiales o prestación de servicios, se
+entenderá siempre incluida la posibilidad de negociar en el evento que ello resulte conveniente para
+ENAP.
+Estándar Corporativo de Compras y Contrataciones ENAP
+26
+5.7 Modificación de contratos
+Los contratos podrán ser modificados siempre y cuando se encuentren vigentes, bajo las siguientes
+condiciones:
+ Modificaciones al Monto del contrato (al alza): Deberán ser aprobadas por instancia de
+aprobación de acuerdo con el nuevo monto del contrato (Anexo II).
+ Modificaciones diferentes al punto anterior: Deberán ser aprobadas por instancia de
+aprobación original (Anexo II). Tratándose de proceso aprobados originalmente por el
+Directorio o Comité de Contratos y Proyectos del Directorio, será suficiente la aprobación
+del Gerente/a General de ENAP y Gerente/a de Primera Línea. Se incluye en este caso las
+modificaciones de cláusulas o modelos de reajuste.
+El monto de los contratos se definirá conforme como el monto neto, sin incluir reajustes ni
+impuestos.
+Para los servicios por obras, con entregables definidos y que no son de tracto continuo, se entiende
+que la fecha de vigencia es referencial, siendo esencial el cumplimiento de los entregables pactados.
+Los contratos podrán ser modificados, previa coordinación entre el Área Usuaria y la Gerencia
+Corporativa de Compras y Gestión de Servicios, siempre que la contraparte de ENAP acceda a ello y
+considerando el desempeño integral del mismo y/o pertinencia desde el punto de vista de la
+continuidad operacional, en los siguientes casos:
+o Si existen causas fundamentadas para renegociar las condiciones del contrato original.
+o Si resulta conveniente desde el punto de vista de la Estrategia de Aprovisionamiento.
+o Si sólo se amplía en el alcance territorial, sin modificar la naturaleza.
+o Otras causales incorporadas en las bases de licitación o en los contratos.
+Sin perjuicio de lo anterior, la instancia de aprobación pertinente deberá siempre decidir sobre la
+procedencia de una modificación.
+5.8 Término anticipado de contratos
+La terminación anticipada de un contrato, salvo la originada en el agotamiento de su monto, deberá
+ser resuelta por la instancia de aprobación respectiva del contrato, de acuerdo con el Anexo II, según
+propuesta del Área Usuaria del servicio en conjunto con la Gerencia Corporativa de Compras y
+Gestión de Servicios, previo análisis de su pertinencia y oportunidad efectuado en conjunto por las
+áreas Legal y Usuaria.
+Estándar Corporativo de Compras y Contrataciones ENAP
+27
+Tratándose de procesos aprobados originalmente por Directorio, Comité de Contratos y Proyectos
+del Directorio o Comité Ejecutivo de Compras y Contrataciones, esta decisión podrá ser aprobada
+por la instancia de aprobación Nivel 2, según Anexo II.
+5.9 Etapa de cierre
+En todos los servicios ejecutados en el marco de lo aprobado por la Instancia de Aprobación
+correspondiente (Anexo II) y para los numerales 2.7.1. y 2.7.6 de las contrataciones sometidas a
+reglas especiales, se deberá efectuar el cierre de éste, a través de una notificación escrita o digital
+por medio de los sistemas formales de ENAP, por Administrador/a Técnico/a del Contrato. Para
+contrataciones menores a US$ 5 mil, el cierre será de carácter opcional.
+Por otra parte, se deja constancia que se deberá proceder a la suscripción de finiquito de contrato,
+el que deberá ser analizado en conjunto por el Área Usuaria, Gerencia Corporativa de Compras y
+Gestión de Servicios y, adicionalmente, el Área Legal (solo para contratos, o a solicitud de la Gerencia
+de Compras y Gestión de Servicios para los casos de órdenes de servicio), en caso de que concurran
+cualquiera de las siguientes situaciones:
+ Cuando exista modificación de condiciones, tales como plazo o monto del contrato, no
+escriturados mediante adenda de este o cuando el servicio se haya prestado sin la
+suscripción del contrato respectivo, y haya terminado su ejecución.
+ Cuando se haya prestado o comenzado a prestar servicios sin autorización previa de la
+instancia competente para ello ni suscripción del correspondiente contrato.
+ Cuando fuere necesaria alguna compensación en el contexto de una transacción o acuerdo
+extrajudicial, acompañándose a la respectiva minuta una solicitud de aprobación suscrita
+por Gerente/a del Área Usuaria del servicio solicitado y la evaluación referida
+anteriormente. Para estos casos deberá contar siempre con análisis y pronunciamiento del
+área Legal.
+ Cuando el contrato presente algún tipo de conflictividad entre las partes y sea de
+conveniencia de ENAP la aplicación del finiquito. Para estos casos deberá contar siempre
+con análisis y pronunciamiento del área Legal.
+La solicitud de finiquito debe formalizarse por escrito y ser autorizada por Gerente/a del Área
+Usuaria; en los casos de procesos en que se haya suscrito contrato o que hubiera correspondido
+suscribir dado el monto, o dependientes de Gerente/a de Área Usuaria; cuando corresponda
+finiquitos en órdenes de servicios.
+Para todos los casos, los finiquitos deberán ser aprobados por la Instancia de Aprobación que
+corresponda al monto del servicio con la recomendación de Administrador/a Técnico/a del Contrato
+o su Gerencia respectiva.
+Estándar Corporativo de Compras y Contrataciones ENAP
+28
+De esta forma, las Áreas de Finanzas no podrán proceder al último pago sin verificar el cierre,
+liquidación final o finiquito de contrato, según corresponda.
+6 CAMBIOS EN LA ORGANIZACIÓN
+En caso de que, en lo sucesivo, se produzcan modificaciones a la estructura organizacional, en
+cuanto a su organigrama o denominación de los cargos referidos en este Estándar, se entenderá
+que la aprobación de las contrataciones de bienes y servicios, así como las demás responsabilidades
+establecidas en este documento, corresponderán a la Gerencia, Dirección o Unidad o titular de las
+mismas encargados de continuar con las labores de la Gerencia, Dirección, Unidad o cargo que se
+modifica.
+7 DELEGACIÓN DE FACULTADES Y VIGENCIA
+7.1 Delegación de facultades
+Se delega en el/la Gerente/a Corporativo de Compras y Gestión de Servicios o equivalente, la
+facultad de dictar los procedimientos e instructivos complementarios para la ejecución del presente
+Estándar, los cuales deberán validarse con las Gerencias pertinentes.
+7.2 Gestión de Excepciones
+Para aquellos procesos regulados por el alcance general, y que por sus características e impacto en
+el negocio no pueda aplicarse de manera íntegra este Estándar, será el Comité Ejecutivo de Compras
+y Contrataciones quien autorice la excepción, velando por la adecuada trazabilidad del fundamento
+y marco de control. Adicionalmente, este comité tendrá facultad de resolver en caso de
+discrepancias en la interpretación de este Estándar.
+7.3 Vigencia
+La presente Estándar Corporativo de Compras y Contrataciones, comenzará a regir el día 11 de
+noviembre 2024. A contar de la fecha indicada, la presente versión reemplazará a la anterior que se
+encontraba vigente desde el 1° de noviembre de 2023. Los procesos de contratación en curso se
+regirán por la normativa vigente a la fecha de la actuación, etapa o decisión requerida.
+Estándar Corporativo de Compras y Contrataciones ENAP
+29
+Anexo I - NIVELES DE APROBACIÓN SAP
+NIVELES DE APROBACIÓN SOLICITUDES DE PEDIDOS SAP
+La Solicitud de Pedido es el documento mediante el cual se formaliza el requerimiento de compra o
+contratación. No constituye la autorización para la adjudicación o aprobación de un estado de pago
+procedente de un proceso de compras o contrataciones.
+Nivel Cargo Rango de Aprobación Solped
+Nivel 1 Gerentes/as de Primera Línea (*) Mayor a US$ 1 millón
+Nivel 2
+Gerentes/as o directores/as reportes de los
+Gerentes de Primera Línea
+Mayor de US$ 500 mil hasta US$ 1 millón
+Nivel 3
+Gerentes/as, directores/as o jefaturas, reportes de
+Segunda Línea de Unidades de Negocio o reportes de
+Gerente/a de Filial Internacional
+Mayor de US$ 20 mil hasta US$ 500 mil
+Nivel 4 Jefaturas reportes del nivel 3 (**) Menor a US$ 20 mil
+(*) Se entiende por Gerentes/as de Primera Línea a todos los Gerentes y Gerentas que, jerárquicamente, tengan
+dependencia directa de Gerente/a General o del Honorable Directorio.
+(**) Nota: La Gerencia Corporativa de Compras y Gestión de Servicios mantendrá vigente el registro de liberadores de
+solicitudes de pedido.
+Estándar Corporativo de Compras y Contrataciones ENAP
+30
+NIVELES DE APROBACIÓN HOJAS DE ENTRADAS DE SERVICIOS (HES)
+La Hoja de Entrada de Servicios (HES), es el documento mediante el cual se formaliza la aceptación
+por parte de Administrador/a Técnico/a de la recepción y prestación conforme de los servicios y sus
+entregables de acuerdo con lo establecido en el contrato respectivo. La aprobación de este
+documento gatilla el inicio del proceso de pago
+Nivel Cargo Rango de Aprobación HES
+Nivel 1 Gerentes/as de Primera Línea Mayor de US$ 1 millón
+Nivel 2
+Gerentes/as o directores/as reportes de los
+Gerentes/as de Primera Línea
+Mayor de US$ 500 mil hasta US$ 1 millón
+Nivel 3
+Gerentes/as, directores/as o jefaturas, reportes de
+Segunda Línea de Unidades de Negocio o reportes de
+Gerente/a de Filial Internacional
+Mayor de US$ 100 mil hasta US$ 500 mil
+Nivel 4 Jefaturas o reportes del nivel 3 Mayor de US$ 20 mil hasta US$ 100 mil
+Nivel 5 Jefaturas o reportes del nivel 4 Menor a US$ 20 mil
+Estándar Corporativo de Compras y Contrataciones ENAP
+31
+NIVELES DE LIBERACIÓN PEDIDOS SAP
+El Pedido de Servicios, es el documento mediante el cual se formaliza la adjudicación de una
+compra o contratación de servicios. En forma previa a su aprobación, se debe contar con la
+autorización de la instancia pertinente según lo indicado en el anexo II.
+Pedidos Bienes
+Nivel Cargo Rango de Aprobación Pedidos
+Nivel 0
+Jefaturas o reportes dependientes de Gerente/a de
+Compras Transversales / en filiales internacionales,
+Gerente/a de Aprovisionamiento local
+Mayor a US$ 20
+Nivel 1 Coordinadores/as de Compras Hasta US$20 mil
+Pedidos Servicios
+Nivel Cargo Rango de Aprobación Pedidos
+Nivel 0
+Jefaturas o reportes dependientes de Gerente/a de
+Contrataciones Ad-hoc / en filiales internacionales,
+Gerente/a Aprovisionamiento local
+Más de US$ 0
+Estándar Corporativo de Compras y Contrataciones ENAP
+32
+Anexo II - MONTOS E INSTANCIAS DE APROBACIÓN
+Nivel Cargo Rango de Aprobación
+Nivel 0 Directorio Mayor a US$ 20millones
+Nivel
+0.1
+Comité de Contratos y Proyectos del Directorio
+Mayor a US$ 10 millones y hasta US$ 20
+millones
+Nivel 1
+Comité Ejecutivo de Compras y Contrataciones, integrado por
+Gerente/a General, Gerente/a Primera Línea Ad hoc, Gerente/a
+Compras y Gestión de Servicios, y Gerente/a Administración y
+Finanzas
+Mayor a US$ 5 millones y hasta US$ 10
+millones
+Nivel 2
+Gerente/a Primera Línea + Gerente/a de Compras y Gestión de
+Servicios
+Mayor a US$ 1 millón y hasta US$ 5 millones
+Nivel 3
+Reporte de Gerente/a Corporativo de Compras y Gestión de
+Servicios ad hoc + Gerente/a o director/a reporte de Primera Línea
+(ad hoc)
+Mayor a US$ 500 mil y hasta US$ 1 millón
+Nivel 4
+Jefaturas o reportes del nivel 3 Ad-Hoc de la Gerencia Corporativa
+de Compras y Gestión de Servicios + Director/a o jefaturas reportes
+de Segunda Línea Ad-Hoc Área Usuaria
+Mayor a US$ 100 mil y hasta US$ 500 mil
+Nivel 5
+Jefaturas o reportes del nivel 3 Ad-Hoc de la Gerencia Corporativa
+de Compras y Gestión de Servicios / en filiales internacionales
+reporte de Gerente/a de Aprovisionamiento local
+En caso de compra de bienes entre US$ 0 y US$20 mil podrá aprobar
+Coordinador/a de Compras
+Mayor a US$ 0 mil y hasta US$ 100 mil
+Estándar Corporativo de Compras y Contrataciones ENAP
+33
+Anexo III.a) - APROBACIÓN CONTRATACIÓN SOMETIDA A
+REGLA ESPECIAL
+1 ANTECEDENTES Y FUNDAMENTOS DE LA CONTRATACIÓN
+<Incluir una descripción detallada del contexto e impacto en el negocio del servicio a contratar>
+2 FUNDAMENTOS DEL MECANISMO DE CONTRATACIÓN A UTILIZAR
+<Descripción del mecanismo de contratación que se utilizará para la provisión del bien o servicio, y
+los criterios de selección en caso de que sea procedente. En caso de tratarse de una Contratación
+Directa, deberá justificarse fundadamente esta circunstancia>
+3 CONDICIONES DE LA CONTRATACIÓN
+<Se debe señalar obligatoriamente la siguiente información: descripción del alcance, identificación
+de la empresa (nombre y RUT), monto neto de la contratación, plazo, imputación correspondiente,
+aplicación garantías y justificación en caso de que no aplique. Al mismo tiempo, deberá considerarse
+la evaluación SSO, medioambiente y laboral, cuando corresponda>
+4 MARCO NORMATIVO
+El numeral <2.XX> del Estándar Corporativo de Compras y Contrataciones que dispone: <descripción
+del párrafo del Estándar que ampara la contratación>
+5 SOLICITUD DE ADJUDICACIÓN
+Se solicita la adjudicación del servicio “<nombre del proceso>” a la empresa <nombre completo>
+(RUT N°<indicar RUT>) por un monto total neto de <indicar moneda y monto (equivalente a xx
+dólares, si aplica>), más impuestos y reajustes (si aplica), por un período de <indicar plazo>
+Solicita:
+<Nombre>
+<Cargo>
+Estándar Corporativo de Compras y Contrataciones ENAP
+34
+6 FECHA Y FIRMA DEL GERENTE/A A QUIEN COMPETE LA AUTORIZACIÓN / RECOMENDACIÓN
+Solicitud de Pedido:
+< indicar número de Solped generada en SAP>
+Tipo de Contratación:
+Regla Especial – Numeral 2.XXX
+Gerencia a cargo del marco de control:
+< indicar el nombre de la Gerencia responsable de dictar y
+mantener actualizado el manual o instructivo que regula
+el marco de control>
+Sesión Honorable Directorio
+(si corresponde)
+<Nombre> Fecha:
+<Cargo>
+Estándar Corporativo de Compras y Contrataciones ENAP
+35
+Anexo III.b) - AUTORIZACIÓN DE CONTRATACIÓN DIRECTA
+POR URGENCIA OPERATIVA
+1 ANTECEDENTES Y FUNDAMENTOS DE LA CONTRATACIÓN
+<Incluir una descripción detallada del contexto e impacto en el negocio del servicio a contratar>
+2 FUNDAMENTOS DEL MECANISMO DE CONTRATACIÓN A UTILIZAR
+<Descripción del mecanismo de contratación que se utilizará para la provisión del bien o servicio
+debidamente fundamentado, y los criterios de selección en caso de que sea procedente.>
+3 CONDICIONES DE LA CONTRATACIÓN
+<Se debe señalar, a lo menos, descripción del alcance, monto neto autorizado y el plazo estimado.
+Adicionalmente, identificación de la empresa (nombre y RUT), imputación correspondiente u otro
+dato relevante, si se cuenta con la información al momento de declarar la urgencia operativa>
+4 MARCO NORMATIVO
+El numeral 5.2.3.4 letra b) del Estándar Corporativo de Compras y Contrataciones que dispone:
+podrán realizarse compras de bienes y contrataciones de servicios de manera directa “en casos de
+urgencia o imprevisto, calificados mediante decisión fundada ya sea de Gerente/a General de ENAP,
+Gerente/a Corporativo de Sipetrol, Gerente/a de Primera Línea de ENAP Magallanes, Gerente/a
+Corporativo de Supply Chain o de Gerente/a Corporativo de Refinerías, según corresponda a sus
+funciones. Se entenderá que concurre esta causal de contratación directa cuando se presenta un
+estado anormal, provocado por un evento no programado, que requiere de acción inmediata para
+prevenir lesiones a las personas, alteraciones a los procesos productivos o administrativos y/o
+minimizar daños a la propiedad, a la comunidad y al medio ambiente. No será necesaria la
+autorización previa de estas compras o contrataciones por la instancia de aprobación que
+correspondiere conforme a su monto. Sin perjuicio de lo anterior, estas contrataciones deberán ser
+informadas por Administrador/a Técnico/a a la Instancia respectiva según Anexo II, en un plazo no
+superior a 90 días corridos desde la declaración de urgencia respectiva, dando cuenta de sus montos
+e individualización de los contratistas e informará en caso de modificaciones debidamente
+autorizadas, y al cierre definitivo de la Urgencia Operativa”.
+Estándar Corporativo de Compras y Contrataciones ENAP
+36
+5 SOLICITUD DE ADJUDICACIÓN
+Se solicita la adjudicación del servicio “<nombre del proceso>” a la empresa <nombre completo>
+(RUT N°<indicar RUT>) por un monto total neto de <indicar moneda y monto (equivalente a xx
+dólares, si aplica>), más impuestos y reajustes (si aplica), por un período de <indicar plazo>
+Solicita:
+6 FECHA Y FIRMA DEL GERENTE/A A QUIEN COMPETE LA AUTORIZACIÓN
+Solicitud de Pedido:
+< indicar número de Solped generada en SAP>
+Tipo de Contratación:
+Urgencia Operativa – Numeral 5.2.3.4 b)
+<Nombre>
+<Cargo>
+<Nombre> Fecha:
+<Cargo>
